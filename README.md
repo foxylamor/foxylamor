@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**foxylamor/foxylamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Telegram Bot Developer passionate about building useful and automated solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Developing Telegram bots
+* ⚙️ Working with APIs and automation
+* 🐍 Mainly using Python
+* 📚 Always learning new technologies
+
+## 🛠 Tech Stack
+
+* Python
+* Telegram Bot API
+* Aiogram / python-telegram-bot
+* SQLite / MySQL / PostgreSQL
+* FastAPI
+* Git & GitHub
+
+---
+
+⭐ Feel free to check out my repositories and projects!
